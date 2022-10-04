@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.bruceasante.snackc221b454e309439e9338c9305380cc90"
     },
     "web": {
       "favicon": "./assets/favicon.png"
